@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-You can check out the project using this [live demo link]()
+You can check out the project using this [live demo link](https://jash-debug.github.io/Awesome-Books/)
 
 ## Getting Started
 
