@@ -11,7 +11,7 @@ body {
   display: flex;
   margin: 0 5%;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-around;
   height: 100vh;
 }
 
@@ -139,11 +139,11 @@ nav {
   z-index: 2;
 }
 
-nav>ul {
+nav > ul {
   list-style: none;
 }
 
-#contact-info>ul {
+#contact-info > ul {
   padding-left: 20px;
   padding-top: 20px;
 }
@@ -166,7 +166,7 @@ footer {
   border: 5px solid black;
 }
 
-.toggled-menu>li {
+.toggled-menu > li {
   padding: 10px;
 }
 
