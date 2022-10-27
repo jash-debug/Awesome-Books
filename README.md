@@ -2,7 +2,8 @@
 
 # Awesome-Books
 
-> This project is a simple library that displays a list of books which can be added and removed by the users refactored to use classes.
+> This project is a simple library that displays a list of books which can be added and removed by the users with Navigation.
+> The project uses a single-page application model
 
 ## Built With
 
